@@ -1,4 +1,4 @@
-## Oi, eu sou Andrew.
+## Oi, eu sou Andrew e meu apelido é Chucrute
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewchucrute&theme=midnight-purple&show_icons=true) 
