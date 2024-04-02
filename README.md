@@ -1,6 +1,6 @@
 ## Meu nome é Andrew 
 
-# [Portifólio]([URL_do_Link](https://portifolioandrewchucrute.netlify.app)){:target="_blank"}
+# [Portifólio]([URL_do_Link](https://portifolioandrewchucrute.netlify.app){:target="_blank"}
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewchucrute&theme=midnight-purple&show_icons=true) 
