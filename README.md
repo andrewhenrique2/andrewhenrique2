@@ -1,6 +1,6 @@
 ## Meu nome é Andrew 
 
-[Clique aqui para abrir o exemplo em uma nova guia](https://portifolioandrewchucrute.netlify.app:target="_blank)
+[Portifólio](https://portifolioandrewchucrute.netlify.app)
 
 
 
