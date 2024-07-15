@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Olá, eu sou Andrew Henrique 👋</h2>
-  <h3>Sou desenvolvedor Full Stack</h3>
+  <h2>Olá, eu sou Andrew Henrique 👋 <br/> Sou desenvolvedor Full Stack </h2>
+  
 </div>
 
 <div align="center">
