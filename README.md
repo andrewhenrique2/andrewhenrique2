@@ -1,6 +1,7 @@
 ## Olá, eu sou Andrew Henrique 👋
-
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,html,css,git,github,vercel,)](https://skillicons.dev)
 # [Portifólio](https://portifolioandrewhenrique2.netlify.app)
+
 
 
 
