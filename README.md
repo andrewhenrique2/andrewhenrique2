@@ -1,27 +1,33 @@
-<div align="center" style="margin-bottom: 2rem;">
+<div align="center">
   <h2>Olá, eu sou Andrew Henrique 👋</h2>
   <h3>Sou desenvolvedor Full Stack</h3>
 </div>
 
-<div align="center" style="margin-bottom: 2rem;">
+<div align="center">
   <h3>🔨 Tecnologias:</h3>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,html,css,git,github,vercel" alt="My Skills" style="margin: 1rem;"/>
   </a>
 </div>
 
-<div align="center" style="margin-bottom: 2rem;">
+<br/>
+
+<div align="center">
   <a href="https://portifolioandrewhenrique2.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin: 2rem; width: 500px; height: auto;"/>
   </a>
 </div>
 
-<div align="center" style="margin-bottom: 2rem;">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrewhenrique2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="margin: 1rem;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhenrique2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin: 1rem;" />
 </div>
 
-<div align="center" style="margin-bottom: 2rem;">
+<br/>
+
+<div align="center">
   <a href="https://instagram.com/andrewchucrute" target="_blank" style="margin: 0.5rem;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
