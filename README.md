@@ -1,6 +1,5 @@
 <div align="center">
   <h2>Olá, eu sou Andrew Henrique 👋 <br/> Sou desenvolvedor Full Stack </h2>
-  
 </div>
 
 <div align="center">
@@ -31,7 +30,7 @@
   <a href="https://instagram.com/andrewchucrute" target="_blank" style="margin: 0.5rem;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="mailto:andrewloly06@gmail.com" style="margin: 0.5rem;">
+  <a href="mailto:andrewloly06@gmail.com" target="_blank" style="margin: 0.5rem;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/andrew-henrique-86aa5823a" target="_blank" style="margin: 0.5rem;">
