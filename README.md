@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://portifolioandrewhenrique2.netlify.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://andrewhenriqueportifolio.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfólio" style="margin: 2rem; width: 500px; height: auto;"/>
   </a>
 </div>
