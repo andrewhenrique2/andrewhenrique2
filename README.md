@@ -1,6 +1,14 @@
 <div align="center">
-  <h2>Olá, eu sou Andrew Henrique 👋 <br/> Sou desenvolvedor Full Stack </h2>
+<samp>  <h2>Olá, eu sou Andrew Henrique 👋 <br/>
+<samp>    <p style="font-size: 14px;">
+     <samp>   Desenvolvedor Full Stack com 2 anos de experiência, especializado em desenvolvimento de aplicações web modernas e escaláveis. 
+    Estou em busca de uma oportunidade como Desenvolvedor Júnior, focado em Front-end ou Full Stack. 
+    Minha missão é resolver problemas através da tecnologia, aprendendo e crescendo a cada desafio.
+    </p>
+  </h2>
 </div>
+
+
 
 <div align="center">
   <h3>🔨 Tecnologias:</h3>
